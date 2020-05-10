@@ -1,7 +1,5 @@
 # Java Books
 
-### Java Books List
-
 | Name                                                                      | URL                                                      |
 | ------------------------------------------------------------------------- | -------------------------------------------------------- |
 |  Java: The Complete Reference - 11th Edition                        | https://tinyurl.com/y9btoqgd              |
